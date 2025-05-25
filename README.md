@@ -1,5 +1,14 @@
 # css-battle
 css battle solutions
+may20:
+<div><p></p><x></x></div>
+<style>
+*{margin:0px;}
+ div {width: 100%;height: 100%;background: #282828;}
+p{ width:80px; background:#F9DDC6; height:80px;display:flex; position:absolute; left:80px;top:30px; box-shadow: 160px 160px #F9DDC6 ,0px 160px #F9DDC6,160px 0px #F9DDC6;}
+  x{width:40px; background:#282828; height:40px;display:flex; position:absolute; left:80px;top:30px;box-shadow:0px 200px #282828,200px 0px #282828,200px 200px #282828 ;  }
+</style>
+
 
 may-25:
 <div><p></p> <x></x><z class="eye-shape"></z></div>
