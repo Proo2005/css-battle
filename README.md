@@ -16,3 +16,10 @@ may-25:
 
 
 may26:
+<div class="a"></div><div class="b"></div><div class="c r"></div><div class="c l"></div>
+<style>*{margin:0;background:#186D37}
+div{background:#48BF7D;position:absolute}
+.a{width:20px;height:50px;left:130px;top:125px;box-shadow:120px 0 #48BF7D}.b{width:50px;height:20px;left:175px;top:80px;box-shadow:0 120px #48BF7D}.c{width:100px;height:40px;box-shadow:0 240px #48BF7D}
+.r{transform:rotate(45deg);left:235px;top:45px}
+.l{transform:rotate(-45deg);left:65px;top:45px}
+</style>
