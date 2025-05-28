@@ -23,3 +23,16 @@ div{background:#48BF7D;position:absolute}
 .r{transform:rotate(45deg);left:235px;top:45px}
 .l{transform:rotate(-45deg);left:65px;top:45px}
 </style>
+
+
+may27:
+<div class="a"></div><div class="b"></div><div class="c"></div><div class="d"></div><div class="l"></div><style>*{margin:0px; background:#5AA4B7;position:absolute;}
+.a,.b,.c{width: 180px;height: 60px;background: #EBF6F0;}.a{left:60px;top:45px;} .b{background:#5AA4B7;left:90px;top:75px;border-radius:10rem 1rem 10rem 10rem;width:115px;} .c{transform:rotate(90deg);left:120px;top:135px;border-radius:10rem 0 0 10rem;}.d, .l{width:40px;height:40px;border-radius:50%;border:30px solid #EBF6F0;}.d{left:240px; top:45px;}.l{left:240px;top:155px;}</style>
+
+
+
+may28:
+<div id=a></div><div id=b></div><div id=c></div><div id=d></div>
+<style>*{margin:0;background:#6592CF;position:absolute;}#a,#b{background:#EEB850;left:110; width:180;}#a{height:70;top:15;box-shadow:0 200px #EEB850;}#b{height:80;top:110;} #c{width:70;background:#EEB850;height:80;top:10;left:165;box-shadow:0  200px #EEB850;}
+#d{width:40;height:10;left:180;top:105;box-shadow:0 80px #6592CF;}</style>
+
