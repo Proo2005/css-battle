@@ -30,6 +30,12 @@ may27:
 .a,.b,.c{width: 180px;height: 60px;background: #EBF6F0;}.a{left:60px;top:45px;} .b{background:#5AA4B7;left:90px;top:75px;border-radius:10rem 1rem 10rem 10rem;width:115px;} .c{transform:rotate(90deg);left:120px;top:135px;border-radius:10rem 0 0 10rem;}.d, .l{width:40px;height:40px;border-radius:50%;border:30px solid #EBF6F0;}.d{left:240px; top:45px;}.l{left:240px;top:155px;}</style>
 
 
+may28:
+<div id=a></div><div id=b></div><div id=c></div><div id=d></div>
+<style>*{margin:0;background:#6592CF;position:absolute;}#a,#b{background:#EEB850;left:110; width:180;}#a{height:70;top:15;box-shadow:0 200px #EEB850;}#b{height:80;top:110;} #c{width:70;background:#EEB850;height:80;top:10;left:165;box-shadow:0  200px #EEB850;}
+#d{width:40;height:10;left:180;top:105;box-shadow:0 80px #6592CF;}</style>
+
+
 may29:
 <div id=a></div><div id=b></div><style>*{margin:0;background:#F58220;position:absolute;}
 #a{width:120;height:120;background:#FFFFFF;border-radius:50%;left:-60;top:10;box-shadow:0 160px #282828,400px 0px #282828,400px 160px #FFFFFF;}#b{width:80;height:80;background:#282828;border-radius: 50%;left:160;top:110;
@@ -41,8 +47,6 @@ may30:
 #a,#b,#c{width:180;height:40;background:#BFE33A;border-radius:10px;left:20;top:60;box-shadow:180px 140px #BFE33A}#b{width:140;top:40;box-shadow:220px 180px #BFE33A}#c{width:80;top:20;box-shadow:280px 220px #BFE33A}#d{width:40;height:100;background: #BFE33A;left:180;top:100;border-radius:0 10px }
 </style>
 
-may28:
-<div id=a></div><div id=b></div><div id=c></div><div id=d></div>
-<style>*{margin:0;background:#6592CF;position:absolute;}#a,#b{background:#EEB850;left:110; width:180;}#a{height:70;top:15;box-shadow:0 200px #EEB850;}#b{height:80;top:110;} #c{width:70;background:#EEB850;height:80;top:10;left:165;box-shadow:0  200px #EEB850;}
-#d{width:40;height:10;left:180;top:105;box-shadow:0 80px #6592CF;}</style>
 
+may31:
+<p id=a></p><p id=b></p><p id=c></p><p id=d></p><style>*{margin:0;position:absolute;background:#F3AC3C}#a,#b,#c,#d{width:20;height:40;background:#282828;left:190;top:70;box-shadow:0 120 #282828}#b{transform:rotate(-90deg);left:130;top:130}#c,#d{transform:rotate(-45deg);box-shadow:0 200 #282828;left:119;top:60}#d{transform:rotate(45deg);left:260}</style>
