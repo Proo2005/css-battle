@@ -50,3 +50,13 @@ may30:
 
 may31:
 <p id=a></p><p id=b></p><p id=c></p><p id=d></p><style>*{margin:0;position:absolute;background:#F3AC3C}#a,#b,#c,#d{width:20;height:40;background:#282828;left:190;top:70;box-shadow:0 120 #282828}#b{transform:rotate(-90deg);left:130;top:130}#c,#d{transform:rotate(-45deg);box-shadow:0 200 #282828;left:119;top:60}#d{transform:rotate(45deg);left:260}</style>
+
+
+june1:
+<p id=a><p id=b><p id=c><style>*{margin:0;background:#9076D8;position:absolute}#a{width:60; height:50;border-radius:0 0 10rem 10rem;left:140;top:170;border:30px solid #fff;border-top:0}#b{width:60;height:60;border-radius:50%;border:30px solid #fff;left:140;top:50}
+#c{width:30;height:70;background:#fff;left:230;top:110}</style>
+
+
+june2:
+<p id=a><p id=b><style>*{margin:0;background:#23384B;position:absolute;}#a{width:60;height:60;border-radius:50%;top:100;left:150;border:20px solid #D36354;outline:20px solid#D9D9D9}#b{width:30;height:50;left:185;top:170}</style>
+
