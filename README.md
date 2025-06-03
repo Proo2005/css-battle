@@ -60,3 +60,8 @@ june1:
 june2:
 <p id=a><p id=b><style>*{margin:0;background:#23384B;position:absolute;}#a{width:60;height:60;border-radius:50%;top:100;left:150;border:20px solid #D36354;outline:20px solid#D9D9D9}#b{width:30;height:50;left:185;top:170}</style>
 
+june3:
+<p id=a><p id=b><p id=c><p id=d><p id=e><style>*{margin:0;background:#D95362;position:absolute;}
+#a,#d{width:200;height:200;background:#C0D6E7;transform:rotate(45deg);left:100;top:-30}
+#b,#e{width:100;height:100;transform:rotate(45deg);background:#2D3464;left:150;top:90}
+#c{width:150;height:100;top:140;left:125}#d{top:132}#e{top:110}</style>
