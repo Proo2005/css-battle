@@ -66,3 +66,9 @@ june3:
 #a,#d{width:200;height:200;background:#C0D6E7;transform:rotate(45deg);left:100;top:-30}
 #b,#e{width:100;height:100;transform:rotate(45deg);background:#2D3464;left:150;top:90}
 #c{width:150;height:100;top:140;left:125}#d{top:132}#e{top:110}</style>
+
+june4:
+<p id=a><p id=b><p id=c><p id=d> <style>*{MARGIN:0;background:#5A9F48;position:absolute}
+#a,#c{width:200;height:200;border-radius:50%;border:30px solid#282828;left:70;}#b{width:80;height:320;background:#5A9F48;left:70;box-shadow:180px 0 #5A9F48 }#c{top:-130}#d{width:100;height:60;left:150;top:80}</style>
+
+
