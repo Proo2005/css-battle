@@ -32,3 +32,8 @@ june7:
 <p a><p id=b><p id=c><p id=d><p id=e><p id=f><style>*{background:#5AA4B7;position:absolute}
 p[a],#b,#c,#d,#e,#f{width:20;height:80;background:#000;border-radius:10rem 10rem;left:182;top:86}#b{transform:rotate(45deg)}#c{transform:rotate(-45deg)}#d{transform:rotate(90deg)}#e,#f{height:200;top:26;box-shadow:140px 0}#e{left:112;}#f{transform:rotate(90deg);top:-44}
 
+
+june8:
+<p id=a><p id=b></p><p id=c><p id=d><p id=e><style>*{background:#F2EAA8;position:absolute}
+#a{width:200;height:200;border-radius:50%;background:#EE7667;left:92;top:26}#b,#c{width:60;height:300;left:162}#c{transform:rotate(90deg);top:-24;width:40}#d,#e{width:20;height:80;background:#EE7667;left:182;top:26;box-shadow:0 120px#EE7667}#e{transform:rotate(90deg);left:247;top:91;height:70;box-shadow:0 130px#EE7667}
+
