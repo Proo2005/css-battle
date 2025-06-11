@@ -28,6 +28,7 @@ june6:
 #a,#b{width:155;height:50;background:#D95362;top:125}#b{left:245}#c{width:50;height:50;border-radius:50%;background:#C0D6E7;left:175;top:125;box-shadow:70px 70px#C0D6E7,-70px -70px#C0D6E7,70px -70px#C0D6E7, -70px 70px#C0D6E7}#d,#e{width:50;height:50;background:#D95362;left:175;top:55}#e{top:195}
 
 
+
 june7:
 <p a><p id=b><p id=c><p id=d><p id=e><p id=f><style>*{background:#5AA4B7;position:absolute}
 p[a],#b,#c,#d,#e,#f{width:20;height:80;background:#000;border-radius:10rem 10rem;left:182;top:86}#b{transform:rotate(45deg)}#c{transform:rotate(-45deg)}#d{transform:rotate(90deg)}#e,#f{height:200;top:26;box-shadow:140px 0}#e{left:112;}#f{transform:rotate(90deg);top:-44}
@@ -44,3 +45,8 @@ june9:
 
 june10:
 <p id=a><p id=b><p id=c><p id=d><style>*{position:absolute;background:#EEB850}#a,#d{width:140px;height:40px;border:20px solid#243D83;border-bottom:0;margin:42 102}#d{width:180;margin:162 82;height:60}#b,#c{width:60;height:120;border-top:20px solid#243D83;border-left:20px solid#243D83;margin:102 42}#c{transform:scaleX(-1);left:220}
+
+
+june11:
+<p id=a><p id=b><p id=c><p id=d><p id=e><style>*{background:#EED9D9;position:absolute}
+#a{width:80;height:140;background:#66284A;border-radius:10q;left:42;top:56;box-shadow:110px 0#66284A,220px 0 #66284A}#b,#c,#d{width:60;height:10;background:#EED9D9;left:52;top:151;box-shadow:0 20px#EED9D9}#c{left:162}#d{left:272}#e{width:50;height:50;border-radius:50%;left:57;top:71;box-shadow:110px 0#EED9D9,220px 0#EED9D9}  
