@@ -50,3 +50,7 @@ june10:
 june11:
 <p id=a><p id=b><p id=c><p id=d><p id=e><style>*{background:#EED9D9;position:absolute}
 #a{width:80;height:140;background:#66284A;border-radius:10q;left:42;top:56;box-shadow:110px 0#66284A,220px 0 #66284A}#b,#c,#d{width:60;height:10;background:#EED9D9;left:52;top:151;box-shadow:0 20px#EED9D9}#c{left:162}#d{left:272}#e{width:50;height:50;border-radius:50%;left:57;top:71;box-shadow:110px 0#EED9D9,220px 0#EED9D9}  
+
+
+june12:
+<p id=a><p id=b><p id=c><style>*{background:#2D3464}#a,#b,#c{width:160;height:80;background:#5AA4B7;border-radius:0 0 11rem 11rem;margin:-8 112;}#b{margin:8q 119q }#c{margin:-7 112;transform:rotate(180deg)
