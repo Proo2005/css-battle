@@ -62,3 +62,12 @@ june13:
 
 june14:
 <p id=a><p id=b><p id=c><p id=d><style>*{margin:0;background:#97AE41;position:absolute}#a{width:40;height:90;background:#334F9F;box-shadow:0 211px#334F9F,360px 0#334F9F,360px 211px#334F9F}#b{width:40;height:40;background:#334F9F;top:130;box-shadow:360px 0#334F9F}#c,#d{width:320;height:40;background:#334F9F;top:90;left:40}#d{top:170}
+
+
+june15:
+<p id=a><p id=b><p id=c><p id=d><style>*{margin:0;background:#97AE41;position:absolute}#a{width:40;height:90;background:#334F9F;box-shadow:0 211px#334F9F,360px 0#334F9F,360px 211q#334F9F}#b{width:40;height:40;background:#334F9F;top:130;box-shadow:360px 0#334F9F}#c,#d{width:320;height:40;background:#334F9F;top:90;left:40}#d{top:170}
+
+
+june16:
+<p id=a><p id=b><p id=c><p id=d><style>*{background:#D95362;position:absolute;margin:0}
+#a{width:164;height:164;left:36;top:28;background:#D9D9D9}#b{width:90;height:90;border-radius:50%;left:73;top:65;box-shadow:164px 0#D9D9D9}#d{width:328;height:150;background:#D9D9D9;left:36;top:192;clip-path: polygon(50% 53.5%, 0 0, 100% 0)}
