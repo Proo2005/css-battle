@@ -75,3 +75,8 @@ june16:
 
 june17;
 <p id=a><p id=b><style>*{background:#F4DCBF;position:absolute}#a{width:200;height:80;background:#556D7F;left:92;top:86}#b{width:40;height:20;background:#3C342A;left:112;top:96;box-shadow:60px 0#F4DCBF,120px 0#3C342A,0 40px#3C342A,60px 40px#F4DCBF,120px 40px#3C342A}
+
+
+june18:
+<p a><p b><style>*{background:#FADE8B;}[a]{width:110;height:40;background:#D24444;margin:40 137;box-shadow:0 90px#D24444,0 180px#D24444}[b]{width:40;height:210;background:#D24444;margin:-70 207}
+
