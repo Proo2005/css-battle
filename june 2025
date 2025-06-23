@@ -95,3 +95,8 @@ june21:
 
 june21:
 <p a><p b><p c><style>*{background:#48BF7D;position:absolute}[a],[b]{width:70;height:71;background:#394257;transform:rotate(45deg);top:90;left:157}[b]{left:206;background:#48BF7D;border-radius:12px}[c]{width:0;height:0;border-top: 50px solid transparent;border-left: 50px solid #394257;border-bottom: 50px solid transparent;left:217;top:76}
+
+
+june 22:
+<p a><p b><p c><style>*{background:#5A9F48;position:absolute}
+[a],[b]{width:117;height:160;background:#FADE8B;margin:62 133.3;border-radius:30q}[b]{transform:rotate(90deg)}[c]{width:60;height:60;background:#D24444;border-radius:50%;margin:112 162}
