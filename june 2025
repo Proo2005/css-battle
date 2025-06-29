@@ -123,3 +123,7 @@ june27;
 
 june28:
 <p a><p b><p c><style>*{position:absolute}[a]{width:250;height:50;border:45px solid#9CBBC2;margin:72 22}[b]{width:80;height:141;background:#9CBBC2;margin:-24px 112;box-shadow:0 200px#9CBBC2,80px 0#5A8D9A,80px 191px#5A8D9A}[c]{width:80;height:45;background:#749FAA;margin:72 112;box-shadow:0 95px#749FAA
+
+
+june29:
+<p a><p b><p c><p d><p e><p f><style>*{margin:0;position:absolute}[a],[b],[d],[e]{width:200;height:150;background:#D24444;top:150}[b]{background:#FADE8B;left:200}[c]{width:80;height:80;background:#FFF;border-radius:50%;left:30;top:110;box-shadow:260px 0#FFF}[d]{background:#394257;top:0}[e]{background:#48BF7D;top:0;left:200}[f]{width:80;height:80;background:#FFF;border-radius:50%;left:160;top:110;}
