@@ -127,3 +127,7 @@ june28:
 
 june29:
 <p a><p b><p c><p d><p e><p f><style>*{margin:0;position:absolute}[a],[b],[d],[e]{width:200;height:150;background:#D24444;top:150}[b]{background:#FADE8B;left:200}[c]{width:80;height:80;background:#FFF;border-radius:50%;left:30;top:110;box-shadow:260px 0#FFF}[d]{background:#394257;top:0}[e]{background:#48BF7D;top:0;left:200}[f]{width:80;height:80;background:#FFF;border-radius:50%;left:160;top:110;}
+
+
+june 30:
+<p a><p b><p c><p d><p e><style>*{background:#FADE8B;position:absolute}[a],[b],[c],[d],[e]{width:50;height:50;background:#D24444;border-raDIUS:50%;margin:42 37;box-shadow:0 75px#D24444,0 150px#D24444}[b]{background:#556D7F;margin:42 102;box-shadow:0 75px#556D7F,0 150px#556D7F}[c]{background:#556D7F;margin:42 232;box-shadow:0 75px#556D7F,0 150px#556D7F}[d]{margin:42 297}[e]{border-radius:0;margin:42 167;background:#556D7F;box-shadow:0 75px#556D7F,0 150px#556D7F}
