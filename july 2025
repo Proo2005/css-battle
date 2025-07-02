@@ -1,4 +1,6 @@
 july 1:
 <p a><p b><p c><style>*{background:#51A499;position:absolute}[a],[b],[c]{width:80;height:140;background:#23384B;margin:82 192}[b]{height:40;margin:42 112;border-radius:10rem 10rem 0 0}[c]{height:40;margin:222 112;border-radius:0 0 10rem 10rem}
 
-
+july2:
+<p a><p b><p c><p d><p e><style>*{position:fixed;background:#EFF8FE}
+[a],[b],[c],[d],[e]{width:60;height:140;background:#4F77FF;margin:102 72}[b]{margin:42 162;height:200;}[c]{height:100;margin:142 252}[d],[e]{width:10;height:200;margin:42 32}[e]{width:310;height:10;margin:242 32
