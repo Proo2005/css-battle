@@ -4,3 +4,7 @@ july 1:
 july2:
 <p a><p b><p c><p d><p e><style>*{position:fixed;background:#EFF8FE}
 [a],[b],[c],[d],[e]{width:60;height:140;background:#4F77FF;margin:102 72}[b]{margin:42 162;height:200;}[c]{height:100;margin:142 252}[d],[e]{width:10;height:200;margin:42 32}[e]{width:310;height:10;margin:242 32
+
+
+july3:
+<p a><p b><p c><style>*{margin:0;position:absolute;background:#CE636F}[c]{width:80;height:80;background:#B44141;left:80;box-shadow:160px 0#B44141,80px 80px#B44141}[a],[b]{width:400;height:80;background:#F7BED9;}[b]{width:240;top:80;left:80;border-radius:0 0 43q 43q}
