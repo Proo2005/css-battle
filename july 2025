@@ -14,3 +14,7 @@ july4:
 
 july5:
 <p a><p b><style>*{background:#F0CD48;position:absolute}[a]{width:340;height:60;background:#FFF;border-radius:20px;border:10px solid#394257;margin:102 12}[b]{width:10;height:44;background:#394257;margin:120 36}
+
+
+july 6:
+<p a><p b><style>*{background:#556D7F;position:absolute}[a],[b]{width:150;height:140;background:#FADE8B;margin:72 117}[b]{height:50;width:280;margin:117 52;box-shadow:-300px 0#FADE8B,300px 0#FADE8B}
