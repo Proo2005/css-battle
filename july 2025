@@ -37,3 +37,7 @@ july10:
 july11:
 <p a><p b><style>*{background:#F7BED9;position:absolute}
 [a]{width:100;height:40;background:#EC0076;border-radius:10rem;margin:92 82;box-shadow:180px 0#EC0076,0 60px#EC0076,180px 60px#EC0076}[b]{width:40;height:40;border-radius:50%;background:#F069AB;margin:92 22;box-shadow:180px 0#F069AB,0 60px#F069AB,180px 60px#F069AB}
+
+
+jul12:
+<p a><p b><p c><style>*{background:#504B72;position:absolute}[a],[b],[c]{width:100;height:60;background:#FFFBCC;margin:32 32;box-shadow:0 80px#FFFBCC,0 160px#FFFBCC}[b]{margin:32 252}[c]{width:120;height:20;margin:92 132;box-shadow:0 80px#FFFBCC}
