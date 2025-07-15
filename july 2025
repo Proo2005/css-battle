@@ -50,3 +50,7 @@ july13:
 july14:
 <p a ><p b><p c><style>*{background:#CEEDFF;position:absolute}
 [a],[b]{width:320;height:300;border-radius:50%;border-left:130px solid#2BBBF3;transform:rotate(-63deg);margin:-84 -40}[b]{transform:rotate(250deg);left:17}[c]{width:350;height:80;background:#05476C;margin:102 17;border-bottom:105px solid#CEEDFF}
+
+
+july15:
+<p a><p b><style>*{background:#2F5A76}[a]{width:270;height:30;background:#F5BB60;margin:-8 127;box-shadow:0 270px#F5BB60}[b]{width:30;height:30;background:#F5BB60;border-radius:50%;margin:113 17;box-shadow:130px 0#F5BB60,260px 0#F5BB60
