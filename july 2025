@@ -68,6 +68,11 @@ july17:
 july18:
 <p a><style>*{background:#F28BBB;position:absolute}[a]{width:135;height:80;background:#680039;margin:102 17;box-shadow:215px 0#680039}
 
+
 july19:
 <p a></p><p b><p c><style>*{background:#B6EBE7;position:absolute}[a],[b]{width:160;height:40;background:#9382E4;margin:222 112}
 [b]{width:40;height:160;margin:62 17;box-shadow:95px 0#9382E4,215px 0#9382E4,310px 0 #9382E4}[c]{width:135;height:80;background:#5E2BB7;margin:102 17;box-shadow:215px 0#5E2BB7}
+
+
+july20:
+<p a><p b><p c><style>*{background:#FADE8B;position:absolute}[a]{width:140;height:40;background:#48BF7D;border-radius:10rem;margin:127 122;box-shadow:0 40px#48BF7D}[b],[c]{width:100;height:100;border-radius:50%;background:#48BF7D;margin:77 142}[c]{width:15;height:15;background:#fff;margin:114 165;box-shadow:40px 0#fff}
