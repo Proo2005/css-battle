@@ -1,3 +1,7 @@
 aug1:
 <p a><p b><style>*{background:#B6EBE7}[a],[b]{width:200;height:60;background:#3A335A;margin:18 10;box-shadow:164px 204px#3A335A}[b]{width:36;height:108;margin:15 174}
 
+aug2:
+<p a><p b><p c><style>*{background:#31938C}[a]{width:280;height:250;background:#FFF;margin:25 52;border-radius:20px}[b]{width:220;height:160;background:#31938C;margin:-215 82}[c]{width:30;height:30;background:#FFF;margin:70 152;box-shadow:50px 0#fff,100px 0#fff,-50px 50px#fff,0 50px#fff,50px 50px#fff,100px 50px#fff,-50px 100px#fff,0 100px#fff,50px 100px#fff}
+
+aug3:
