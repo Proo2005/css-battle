@@ -8,3 +8,4 @@ aug3:
 <P A><P B><p c><style>*,[c]{background:#243D83}[a],[b]{width:80;height:80;border:22q solid#fff;margin:60 102}[b]{margin:-120 162}[c]{width:42;height:40;margin:-20 160
 
 aug4:
+<p a><p b><p c><p d><p e><style>*{background:#D94E4E}[a],[b]{width:60;height:100;border:20px solid #EBE77E;border-radius:57q 48q 0 0;border-bottom:0;margin:10 2}[b]{margin:-130 282}[c],[d]{width:60;height:100;border:20px solid #EBE77E;border-radius:0 0 48q 57q;border-top:0;margin:170 2}[d]{margin:-290 282}[e]{width:200;height:20;background:#EBE77E;margin:110 100;box-shadow:0 60px#EBE77E}
