@@ -20,3 +20,6 @@ aug6:
 aug7:
 <p a><p b><p c><p d><p e><p f><p g><p h><p i><style>*{background:#F88889;position:absolute}
 [a],[b]{width:400;height:20;background:#FFF;margin:132 -8}[b]{transform:rotate(90deg);margin:150 -8}[c],[d],[e],[f],[g],[h]{background:transparent;width:30;height:30;bordeR:20px solid#fff;border-radius:50%;margin:27 136}[d]{margin:187 136}[e]{margin:27 178}[f]{margin:187 178}[g]{margin:27 346}[h]{margin:187 -32}[i]{width:21;height:20;background:#F88889;margin:51 161;box-shadow:41px 0#F88889,0 160px#F88889,41px 160px#F88889 }
+
+aug8:
+<P A><P B><style>*{background:#3A335A;position:absolute}[A]{width:70;height:160;background:#FADE8B;margin:62 112;box-shadow:90px 0#FADE8B}[b]{width:20;height:60;background:#FADE8B;margin:112 12;box-shadow:40px -1px#FADE8B,80px 0#FADE8B,260px 0#FADE8B,300px 0#FADE8B,340px 0#FADE8B}
