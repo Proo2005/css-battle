@@ -27,3 +27,6 @@ aug8:
 aug9:
 <p a><p b><p c><p d><p e><style>*,[e]{position:absolute;background:#FADE8B}
 [a],[b],[c]{padding:100px 30px;border:40px solid#31938C;border-radius:10rem 10rem 0 0;border-bottom:0;margin:17 72}[b]{margin:17px 172px}[c]{margin:17px -28px}[d]{padding:15px 20px;background:#135853;margin:237 72;box-shadow:100px 0#135853,200px 0#135853}[e]{padding:130px 50px;margin:10 -58}
+
+aug10:
+<P A><P B><p c><p d><style>*{background:#328FC1;position:absolute}[a]{width:0;height:0;border-top: 90px solid transparent;border-left: 90px solid #EBE77E;border-bottom: 0px solid transparent;margin:132 112}[b],[c],[d]{width:30;height:220;background:#243D83;margin:32 82}[c]{transform:rotate(90deg);margin:127 177}[d]{transform:rotate(-45deg);margin:64 150;width:30;height:200}
