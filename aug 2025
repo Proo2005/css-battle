@@ -35,3 +35,7 @@ aug11:
 <p a><p b><p c><style>*{background:#B673A6;position:absolute}
 [a],[b]{padding:60;background:#619EBF;margin:142 -38;border:30px solid#D9D9D9;border-radius:32q
   }[b]{left:280}[c]{padding:20;background:#D9D9D9;border-radius:50%;margin:122 172;box-shadow:80px 30px#619EBF,-80px 30px#619EBF}
+
+aug12:
+<p a><p b><p c><p d><style>*{background:#7E6293;position:absolute}[a],[b]{width:30;height:60;border-radius:10rem;margin:42px 67px;bordeR:30px solid#fff}[b]{margin:122 227}[c]{width:30;height:240;background:#fff;transform:rotate(15deg);left:178}[d]{width:50;height:50;background:#7E6293;margin:-8 190;box-shadow:-50px 250px#7E6293}
+
