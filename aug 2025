@@ -39,3 +39,8 @@ aug11:
 aug12:
 <p a><p b><p c><p d><style>*{background:#7E6293;position:absolute}[a],[b]{width:30;height:60;border-radius:10rem;margin:42px 67px;bordeR:30px solid#fff}[b]{margin:122 227}[c]{width:30;height:240;background:#fff;transform:rotate(15deg);left:178}[d]{width:50;height:50;background:#7E6293;margin:-8 190;box-shadow:-50px 250px#7E6293}
 
+aug13:
+<p a><p b><p c>
+<style>*{background:#5A9F48; position:absolute}[a]{width:100;height:100;border-radius:50% 50% 0 0;border:20px solid#23384B;margin:22 120}
+[b]{width:180;height: 120;outline: 20px solid#23384B;margin:122 102;border-radius:10px
+  }
