@@ -44,3 +44,6 @@ aug13:
 <style>*{background:#5A9F48; position:absolute}[a]{width:100;height:100;border-radius:50% 50% 0 0;border:20px solid#23384B;margin:22 120}
 [b]{width:180;height: 120;outline: 20px solid#23384B;margin:122 102;border-radius:10px
   }
+
+aug14:
+<p a><p b><style>*{background:#F3AC3C;}[a]{width:80;height:40;border-radius:0 0 10rem 10rem; border:40px solid#000;border-top:0;margin:120 112}[b]{width:40;height:40;background:#000;margin:-220 112;border-radius:50%;box-shadow:60px 0,120px 0,60px 120px}
