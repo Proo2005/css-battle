@@ -50,3 +50,6 @@ aug14:
 
 aug15:
 <p a><p b><p c><p d><style>*,[b],[d]{background:#FFEFF2}[a],[c]{width:360;height:160;background:#4F77FF;margin:70 12;border-radius:100px 100px 0 0}[b],[d]{width:160;height:100;;margin:-200 112}[c]{width:140;height:80;margin:110 122;border-radius:50px 50px 0 0}[d]{width:40;margin:-200 172}
+
+aug16:
+<p a><p b><style>*{background:#4C455B}[a]{width:140;height:100;background:#D96C7B;margin:135 92;border:30px solid#F3EAD2;border-top:0}[b]{width:140;height:70;border-radius:10rem 10rem 0 0;background:#F3EAD2;border:30px solid#D96C7B;border-bottom:0;margin:-365 92}
