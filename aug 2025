@@ -57,4 +57,5 @@ aug16:
 aug17:
 <p a><p b><p c><p d><style>*,[c]{background:#41434B;position:absolute}[a],[b]{padding:50;background:#fff;border-radius:50% 50% 0 50%;margin:62 52}[b]{transform:rotate(90deg);left:180}[c]{padding:15;border-radius:50%;margin:97 67;box-shadow:180px 0#41434B}[d]{width:0;height:0;border-left:40px solid transparent;border-right:40px solid transparent;border-top:59px solid#D95F5B;margin:162 152}
 
-
+aug18:
+<p a><p b><p c><p d><style>*{background:#E8AD6D;position:absolute}[a],[b]{padding:20;border-radius:50%;border:30px solid#3B240C;margin:152 52}[b]{left:180}[c]{padding:30;background:#3B240C;margin:152 162}[d]{width:280;height:50;background:#3B240C;margin:82 52;box-shadow:0 120px#E8AD6D}
